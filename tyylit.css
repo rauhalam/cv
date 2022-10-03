@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+.listaus {
+    margin-left: 20px;
+}
+.listaus p {
+    margin-bottom: 0.5em;
+}
+nav li {
+    /* padding: 10px 10px; */
+}
+nav li a:hover{
+    background-color: rgb(233, 226, 226, 0.4);
+}

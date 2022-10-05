@@ -17,6 +17,9 @@ h3 {
 nav li a:hover{
     background-color: rgb(233, 226, 226, 0.4);
 }
+.nav-link {
+    padding: 15px;
+}
 .button {
     background-color: rgb(233, 226, 226, 0.9);
     border: #372828 solid 1px;
@@ -31,6 +34,23 @@ nav li a:hover{
     background-color: rgb(233, 226, 226, 0.5);
     color:#372828;
 }
+.fa {
+    text-decoration: none;
+}
+.fa-brands {
+    font-size: 20px;
+}
+.fa-brands:hover {
+    opacity: 0.5;
+    text-decoration: none;
+}
+.table {
+    color: #e9e2e2;
+    margin-left: 10px;
+}
+.td-first {
+    width: 120px;
+}
 .img-thumbnail {
     background-color: #e9e2e2;
 }
@@ -40,4 +60,9 @@ nav li a:hover{
     text-align: center;
     position: absolute;
     width: 100%;
+}
+.center {
+    margin: 0;
+    vertical-align: middle;
+    padding: 10px;
 }
